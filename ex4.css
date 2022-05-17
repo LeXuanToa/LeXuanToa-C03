@@ -1,0 +1,25 @@
+.first-heading {
+    width: 100%;
+    height: 600px;
+    background-image:-webkit-linear-gradient(left, #fcbf16 15%,#992154 100%) ;
+    
+}
+.first-heading .text {
+ display: inline;
+color: white;
+text-align: center;
+font-size: 30px;
+
+}
+.first-heading .text p{  
+   margin-top: 0px;
+   margin-bottom: 100px;
+   padding-top: 50px;
+}
+.first-heading .img {
+    text-align: center;
+    
+}
+.first-heading .img img {
+    border-radius: 200px;
+}

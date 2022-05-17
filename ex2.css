@@ -1,0 +1,10 @@
+.first-heading {
+    text-align: center;
+    background-color: aqua;
+    width: 30%;
+    margin: auto;
+    height: auto;
+    padding: 50px;
+    
+    font-size: 14px;
+}
